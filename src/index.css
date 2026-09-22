@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Fraunces', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-clinic-primary: #173829;
+  --color-clinic-dark: #0F261C;
+  --color-clinic-accent: #265B43;
+  --color-clinic-sage: #E7EFEA;
+  --color-clinic-mint: #D0E3D8;
+  --color-clinic-sand: #F6F4EE;
+  --color-clinic-warm: #FAF9F5;
+  --color-clinic-charcoal: #1E2621;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background-color: #FAF9F5;
+  color: #1E2621;
+  overflow-x: hidden;
+}
+
+.font-editorial {
+  font-family: 'Fraunces', Georgia, serif;
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "Aura Dental Studio",
+  "description": "Modern, gentle dental care & implant studio with transparent pricing, interactive dental symptom checker, smile transformations, and instant online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
